@@ -1,16 +1,24 @@
-### Hi there 👋
+### Matthew King
 
-<!--
-**MKing111/Mking111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I am Matthew King, a talented software developer and problem solver with a passion for creating elegant and efficient solutions to complex challenges. With over 5 years of experience in the industry, I have honed my skills in various programming languages, tools, and frameworks.
+Skills and Expertise
 
-Here are some ideas to get you started:
+    Programming languages: Java, Python, JavaScript, Ruby, C++
+    Web Development: HTML, CSS, ReactJS, NodeJS, ExpressJS
+    Database: SQL, MongoDB, Firebase, PostgreSQL
+    Tools: Git, GitHub, Jira, Visual Studio Code, Eclipse
+    Methodologies: Agile, Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+
+Here are a few of my notable projects that showcase my skills and expertise:
+
+    [Project name] - [Link to project repository or live demo]
+    [Project name] - [Link to project repository or live demo]
+    [Project name] - [Link to project repository or live demo]
+
+
+
+Contact
+
+Feel free to get in touch with me through my LinkedIn profile or email me at [email address]. I am always open to exciting new opportunities and collaborations.
