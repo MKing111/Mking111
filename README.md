@@ -5,8 +5,8 @@ Skills and Expertise
 
     Programming languages: Java, Python, JavaScript, Ruby, C++
     Web Development: HTML, CSS, ReactJS, NodeJS, ExpressJS
-    Database: SQL, MongoDB, Firebase, PostgreSQL
-    Tools: Git, GitHub, Jira, Visual Studio Code, Eclipse
+    Database: SQL: PostgreSQL, NoSQL: Google Firestore
+    Tools: Git, GitHub, Visual Studio Code, Eclipse
     Methodologies: Agile, Scrum
 
 Projects
