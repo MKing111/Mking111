@@ -13,9 +13,9 @@ Projects
 
 Here are a few of my notable projects that showcase my skills and expertise:
 
-    [Project name] - [Link to project repository or live demo]
-    [Project name] - [Link to project repository or live demo]
-    [Project name] - [Link to project repository or live demo]
+    RVC Sports Application - [Link to project repository or live demo]
+    Challenger.io - [Link to project repository or live demo]
+    Pokemon - [Link to project repository or live demo]
 
 
 
