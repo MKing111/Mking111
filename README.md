@@ -4,6 +4,7 @@ Hello there! I am Matthew King, a software developer and problem solver with a p
 Skills and Expertise
 
     Programming languages: Java, Python, JavaScript, Ruby, C++
+    <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/icons/typescript/typescript-plain.svg />
     Web Development: HTML, CSS, ReactJS, NodeJS, ExpressJS
     Database: SQL: PostgreSQL, NoSQL: Google Firestore
     Tools: Git, GitHub, Visual Studio Code, Eclipse
