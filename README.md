@@ -1,6 +1,6 @@
 ### Matthew King
 
-Hello there! I am Matthew King, a software developer and problem solver with a passion for creating elegant and efficient solutions to complex challenges. With over 5 years of experience in the industry, I have honed my skills in various programming languages, tools, and frameworks.
+Welcome! My name is Matthew King, and I'm a software developer and problem solver with a passion for creating elegant and efficient solutions to complex challenges. With over 5 years of experience in the industry, I have honed my skills in various programming languages, tools, and frameworks.
 Skills and Expertise
 
 Languages and Technologies: <br/>
