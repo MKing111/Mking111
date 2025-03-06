@@ -6,10 +6,7 @@
 
 Projects:
 
-    RVC Sports Application - [Link to project repository or live demo]
-    Challenger.io - [Link to project repository or live demo]
-    Pokemon - [Link to project repository or live demo]
-
+ 
 
 
 Contact:
